@@ -1,0 +1,6 @@
+[submodule "stock-track499-frontend"]
+	path = stock-track499-frontend
+	url = https://github.com/kalynstricklin/stock-track499-frontend.git
+[submodule "stock-track499-backend"]
+	path = stock-track499-backend
+	url = https://github.com/earocorn/stock-track499-backend.git
