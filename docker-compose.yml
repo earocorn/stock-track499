@@ -1,0 +1,9 @@
+services:
+  django-server:
+    build: stock-track499-backend/stocktrack
+    ports:
+      - "8000:8000"
+  vue-client:
+    build: stock-track499-frontend
+    ports: 
+      - "8080:8080"
